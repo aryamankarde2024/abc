@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.inventory {
+  margin-bottom: 20px;
+}
+
+.add-item input, .add-item button {
+  margin-top: 10px;
+}
+
+.add-item input {
+  width: 200px;
+  padding: 5px;
+}
+
+.add-item button {
+  padding: 5px 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.add-item button:hover {
+  background-color: #45a049;
+}
